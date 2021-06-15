@@ -22,4 +22,7 @@ let fourExs = 1000 + "108";
 alert(fourExs);
 
 let five = 5;
+<<<<<<< HEAD
 let six = 5;
+=======
+>>>>>>> feature/goodbye
