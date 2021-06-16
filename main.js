@@ -22,6 +22,7 @@ let fourExs = 1000 + "108";
 alert(fourExs);
 
 let five = 5;
+console.log('hello my dear friend');
 <<<<<<< HEAD
 let six = 5;
 =======
